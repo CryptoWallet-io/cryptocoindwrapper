@@ -1,0 +1,19 @@
+{
+  "name": "cryptowallet/cryptocoindwrapper",
+  "description": "Super simple but fully fledged wrapper for interfacing with multiple kinds of *coind servers",
+  "type": "library",
+  "homepage": "https://github.com/cryptowallet/cryptocoindwrapper",
+  "license": "Creative Commons BY-NC 3.0",
+  "authors": [
+    {
+      "name": "James Kirkby",
+      "homepage": "https://www.cryptowallet.io",
+      "email": "me@jameskirkby.com",
+      "role": "Senior Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "fguillot/json-rpc": "0.0.1"
+  }
+}
